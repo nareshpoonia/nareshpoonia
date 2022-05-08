@@ -14,7 +14,7 @@
 
 ## Let's Connect 🔗
 
-[![](https://img.shields.io/twitter/follow/naresh_poonia_?style=for-the-badge&logo=twitter)](https://twitter.com/junaidshaikh_js)
+[![](https://img.shields.io/twitter/follow/naresh_poonia_?style=for-the-badge&logo=twitter)](https://twitter.com/naresh_poonia_)
 
 
 ## My skills 🚀
